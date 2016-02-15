@@ -1,4 +1,4 @@
 # SEH
 
 ### ECG
-* [Longembolie ECG](https://github.com/moranje/TIL/blob/master/ECG/longembolie.md)
+* [Longembolie ECG](ECG/longembolie.md)
