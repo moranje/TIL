@@ -1,4 +1,4 @@
-# Ottawa Knee Rules
+# Pittburgh Knee Rules
 Mits alle criteria negatief blijven is een kniefoto niet noodzakelijk. De Pittburgh Knee Rules zijn specifieker dan de Ottowa Ankle Rules
 
 ```md

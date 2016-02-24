@@ -9,7 +9,7 @@ Geen drukpijn bij de patella, mediale en laterale zijde van proximale tibia niet
 Neurovasculair intact.
 ```
 
-[Pittburgh Knee Rules](Regels/pittsburgh-knee-rules.md) negatief (specifieker) of [Ottowa Knee Rules](Regels/ottawa-knee-rule.md) negatief
+[Pittburgh Knee Rules](Regels/pittsburgh-knee-rules.md) negatief (specifieker) of [Ottowa Knee Rules](Regels/ottawa-knee-rules.md) negatief
 
 _Bronnen:_
 - SEH Flevoziekenhuis
