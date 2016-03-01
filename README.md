@@ -5,3 +5,6 @@
 ## ECG
 - [Atriumflutter](ECG/atriumflutter.md)
 - [Longembolie ECG](ECG/longembolie.md)
+
+## Cardiologie
+- [Ritmestoornissen](Cardiologie/ritmestoornissen.md)
