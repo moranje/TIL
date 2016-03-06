@@ -1,4 +1,6 @@
-# Ottawa Ankle Rules
+Ottawa Ankle Rules
+==================
+
 Als een van de volgende criteria positief is wordt er een foto van de aangedane voet gemaakt.
 
 ```md
@@ -9,24 +11,33 @@ Als een van de volgende criteria positief is wordt er een foto van de aangedane 
 5. Drukpijn op het os naviculare
 ```
 
-## Ezelsbrug: 44-55-66PM
-- Kan geen 4 stappen zetten onmiddellijk
-- Kan geen 4 stappen zetten in de spoedafdeling
+Ezelsbrug: 44-55-66PM
+---------------------
 
-_OF_
-- Pijn thv metatarsaal 5
-- Pijn thv os Naviculari5
+-	Kan geen 4 stappen zetten onmiddellijk
+-	Kan geen 4 stappen zetten in de spoedafdeling
 
-_OF_
-- Gevoeligheid thv de 6cm lange Posterieure rand van de laterale Malleolus
-- Gevoeligheid thv de 6cm lange Posterieure rand van de mediale Malleolus
+*OF*
 
-## Laterale Landmarks
+-	Pijn thv metatarsaal 5
+-	Pijn thv os Naviculari5
+
+*OF*
+
+-	Gevoeligheid thv de 6cm lange Posterieure rand van de laterale Malleolus
+-	Gevoeligheid thv de 6cm lange Posterieure rand van de mediale Malleolus
+
+Laterale Landmarks
+------------------
+
 ![Laterale Zijde](http://www.eerstehulpwiki.nl/wiki/images/b/b4/OAR1.jpg)
 
-## Mediale Landmarks
+Mediale Landmarks
+-----------------
+
 ![Mediale Zijde](http://www.eerstehulpwiki.nl/wiki/images/9/90/OAR2.jpg)
 
-_Bronnen:_
-- [Eerste Hulp Wiki](http://www.eerstehulpwiki.nl/wiki/index.php/Ottawa_Ankle_Rules)
-- [Wikipedia](https://nl.wikipedia.org/wiki/Ottawa_ankle_rules)
+*Bronnen:*
+
+-	[Eerste Hulp Wiki](http://www.eerstehulpwiki.nl/wiki/index.php/Ottawa_Ankle_Rules)
+-	[Wikipedia](https://nl.wikipedia.org/wiki/Ottawa_ankle_rules)

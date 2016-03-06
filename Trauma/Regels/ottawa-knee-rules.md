@@ -1,4 +1,6 @@
-# Ottawa Knee Rules
+Ottawa Knee Rules
+=================
+
 Mits alle criteria negatief blijven is een kniefoto niet noodzakelijk.
 
 ```md
@@ -9,5 +11,6 @@ Mits alle criteria negatief blijven is een kniefoto niet noodzakelijk.
 5. De knie niet kunnen belasten, waarbij mank lopen voldoende is
 ```
 
-_Bronnen:_
-- [MDCalc](http://www.mdcalc.com/ottawa-knee-rule/)
+*Bronnen:*
+
+-	[MDCalc](http://www.mdcalc.com/ottawa-knee-rule/)
