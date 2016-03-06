@@ -26,4 +26,5 @@ Als gevolg van toegenomen weerstand in het longvaatbed door de embolus onstaat:
 
 *Bronnen:*
 
-1.	[ECGPedia](http://nl.ecgpedia.org/wiki/Longziekten) 2. [Zakboek Spoedeisende Geneeskunde, Alkemade](http://www.bsl.nl/shop/zakboek-spoedeisende-geneeskunde-9789031342600.html)
+1.	[ECGPedia](http://nl.ecgpedia.org/wiki/Longziekten)
+2.	[Zakboek Spoedeisende Geneeskunde, Alkemade](http://www.bsl.nl/shop/zakboek-spoedeisende-geneeskunde-9789031342600.html)

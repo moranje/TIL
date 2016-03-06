@@ -8,11 +8,15 @@ STEMI
 -	ST-elevatie in III > II
 -	Horizantale of convexe (tombstones) ST elevaties
 
-Daarna: - RT sign of checkmark sign
+Daarna:
+
+-	RT sign of checkmark sign
 
 Pericarditis
 ------------
 
 Nadat STEMI uitgesloten is: - PR segment depressie
 
-Daarna: - Spodicks sign (TP segment daling)
+Daarna:
+
+-	Spodicks sign (TP segment daling)

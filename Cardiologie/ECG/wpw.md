@@ -15,7 +15,7 @@ Tachycardie
 
 Het gevaar bij WPW is het ontstaan van een tachycardie. Daarbij kan de tachycardie eerst over de AV-knoop lopen en via de accesoire bundel terug in de atria komen of andersom lopen.
 
-![WPW](http://nl.ecgpedia.org/wiki/Bestand:OCT_ACT.svg)
+![WPW](http://nl.ecgpedia.org/images/f/fd/OCT_ACT.svg)
 
 Daarbij is het belangrijk om onderscheid te maken tussen benigne en maligne accesoire bundels.
 
