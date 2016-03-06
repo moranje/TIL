@@ -1,4 +1,6 @@
-# Longembolie ECG
+Longembolie ECG
+===============
+
 Er zijn er naast een sinustachycardie, 6 afwijkingen op een ECG die kunnen duiden op een longembolie. Ze zijn echter niet pathognomisch voor een longembolie en zijn dus hooguit te gebruiken als een ondersteuning.
 
 ```md
@@ -19,8 +21,9 @@ Als gevolg van toegenomen weerstand in het longvaatbed door de embolus onstaat:
 ![Longembolie ECG](http://en.ecgpedia.org/images/2/28/DVA0709.jpg)<br>(ECG van ECGPedia)
 
 **DD**:
-- Cardiale ischemie
 
-_Bronnen:_
-1. [ECGPedia](http://nl.ecgpedia.org/wiki/Longziekten)
-2. [Zakboek Spoedeisende Geneeskunde, Alkemade](http://www.bsl.nl/shop/zakboek-spoedeisende-geneeskunde-9789031342600.html)
+-	Cardiale ischemie
+
+*Bronnen:*
+
+1.	[ECGPedia](http://nl.ecgpedia.org/wiki/Longziekten) 2. [Zakboek Spoedeisende Geneeskunde, Alkemade](http://www.bsl.nl/shop/zakboek-spoedeisende-geneeskunde-9789031342600.html)
