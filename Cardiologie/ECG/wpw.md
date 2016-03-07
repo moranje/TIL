@@ -10,6 +10,15 @@ Symptomen
 -	Syncope
 -	In combinatie delta golven op het ECG, verlengde QRS complexen (> 0,1 sec) en verkorte PQ tijd (< 0,12)
 
+ECG
+---
+
+-	Kort PR interval
+-	Breed QRS
+-	Delta golf
+-	Hoge volgefrequentie 200 - 300 (assesoire bundel)
+-	Onregelmatige irregulaire QRS complexen
+
 Tachycardie
 -----------
 
@@ -29,12 +38,17 @@ Daarbij is het belangrijk om onderscheid te maken tussen benigne en maligne acce
 
 -	Het optreden van zeer snelle tachycardiëen tijdens spontane aanvallen van boezemfibbrileren (> 240 slagen / min).
 
+Medicatie
+---------
+
+Bij gebruik van medicatie die de AV-knoop downreguleren (B-blockers) stopt de AV knoop met het afvangen van de atriale pulsaties en kunnen alle over de accesoire bundel worden voortgeleid en onstaat er een vertrikelritme van 300 - 600 slagen per minuut (ventrikel fibrileren).
+
 Behandeling
 -----------
 
 -	Ablatie van de accesoire bundels
 -	Ritmemodulatie middels medicatie
 
-*Bronnen:*
-
--	[ECGPedia](http://nl.ecgpedia.org/wiki/WPW)
+*Bronnen:*  
+- [ECGPedia](http://nl.ecgpedia.org/wiki/WPW)  
+- [Amal Mattu's ECG Case of the Week: Nov 25, 2013](https://www.youtube.com/watch?v=_oaMBuy2AdE)
